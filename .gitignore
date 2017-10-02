@@ -1,0 +1,14 @@
+.cache
+.mc-lists.el
+.tmp
+auto-save-list
+bookmarks
+elpa
+eshell
+network-security.data
+notes
+projectile-bookmarks.eld
+projectile.cache
+recentf
+smex-items
+temp.*
