@@ -1,0 +1,20 @@
+* emacs.d
+
+There are many like it, but this one is mine
+
+** Theme ([[git@github.com:microamp/shinmunji-theme.git][shinmunji-theme]])
+
+   #+BEGIN_SRC
+$ mkdir themes
+$ cd themes && git clone git@github.com:microamp/shinmunji-theme.git
+   #+END_SRC
+
+* Screenshots
+
+  - [[https://imgur.com/a/yTZb1][2018 #1]]
+  - [[https://imgur.com/gallery/R4Q8EPm][2018 #2]] (a bit lighter)
+  - 2018 #3 (shinmunji-theme): [[https://raw.githubusercontent.com/microamp/shinmunji-theme/master/img/w3m.png][1]], [[https://raw.githubusercontent.com/microamp/shinmunji-theme/master/img/el.png][2]]
+
+* License
+
+GPL-3.0
